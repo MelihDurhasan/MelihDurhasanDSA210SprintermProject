@@ -42,11 +42,11 @@ Remove missing or incorrect values and structure the data for analysis.
 Visualize the relationship between crime rates and factors such as weather conditions, population density, and location characteristics.
 Examine how different crime types are distributed across various times and areas.
 ### 4.Hypothesis Testing:
-
+#### => How  does weather condition influence crime rates?
 #### => Identify which factors (e.g., temperature, population density, location) most significantly influence crime rates.
-#### => Analyze the impact of weather changes on specific types of crimes.
-#### => Compare actual crime rates with expected averages to determine statistically significant deviations.
-#### => Results & Conclusions:
+#### => Which specific crime types (e.g., theft, murder) are more influenced by certain parameters?
+#### => Can crime occurrences be predicted based on weather and other parameters?
+### 5.Results & Conclusions:
 #### => Summarize key findings to highlight the main factors driving Chicago’s crime rates and discuss their implications.
 
 ## Example Analysis & Expected Findings
