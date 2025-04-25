@@ -10,7 +10,7 @@ Last summer, I lived in Chicago, USA, for three months as part of the Work and T
 #### => Detailed crime statistics from the Chicago Data Portal
 #### => Chicago crime datasets available on Kaggle
 #### => NOAA (National Oceanic and Atmospheric Administration) - Climate Data Online
-#### => 
+#### => Chicago Community Areas Demographics on Kaggle
 
 ## Data to be Collected:
 
