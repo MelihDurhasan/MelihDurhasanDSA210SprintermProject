@@ -10,6 +10,7 @@ Last summer, I lived in Chicago, USA, for three months as part of the Work and T
 #### => Detailed crime statistics from the Chicago Data Portal
 #### => Chicago crime datasets available on Kaggle
 #### => NOAA (National Oceanic and Atmospheric Administration) - Climate Data Online
+#### => 
 
 ## Data to be Collected:
 
@@ -43,7 +44,7 @@ Visualize the relationship between crime rates and factors such as weather condi
 Examine how different crime types are distributed across various times and areas.
 ### 4.Hypothesis Testing:
 #### => How  does weather condition influence crime rates?
-#### => Identify which factors (e.g., temperature, population density, location) most significantly influence crime rates.
+#### => Identify which factors (e.g., temperature, population density, location,race) most significantly influence crime rates.
 #### => Which specific crime types (e.g., theft, murder) are more influenced by certain parameters?
 #### => Can crime occurrences be predicted based on weather and other parameters?
 ### 5.Results & Conclusions:
